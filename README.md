@@ -21,25 +21,25 @@
 
 <h3 alinear="izquierda">Herramientas:</h3>
 
-<h3 align="center">Lenguajes de programación</h3>
+<h3 align="izquierda">Lenguajes de programación</h3>
 
 Java , JavaScript, PHP
 
 
-<h3 align="center">Desarrollo Front-End</h3>
+<h3 align="izquierda">Desarrollo Front-End</h3>
 
 HTML, CSS
 
-<h3 align="center">Bases de datos</h3>
+<h3 align="izquierda">Bases de datos</h3>
 
 MySql, SQLServer
 
 
-<h3 align="center">Motores de juego</h3>
+<h3 align="izquierda">Motores de juego</h3>
 
 Unity
 
-<h3 align="center">Otros</h3>
+<h3 align="izquierda">Otros</h3>
 
 Linux, Git
 
