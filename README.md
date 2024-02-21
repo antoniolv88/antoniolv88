@@ -7,7 +7,7 @@
 
 - 📝 Regularmente escribo artículos en [www.antoniolorenzov.xyz/blog]( www.antoniolorenzov.xyz/blog)
 
-- 💬 Preguntame sobre **Java, HTML, CSS, JavaScript**
+- 💬 Preguntame sobre **HTML, CSS, Java, C#**
 
 - 📫 Para contactarme escríbeme al mail **antoniolorenzov88@gmail.com**
 
@@ -23,7 +23,7 @@
 
 <h3 align="izquierda">Lenguajes de programación</h3>
 
-Java , JavaScript, PHP
+Java , C#
 
 
 <h3 align="izquierda">Desarrollo Front-End</h3>
@@ -41,8 +41,7 @@ Unity
 
 <h3 align="izquierda">Otros</h3>
 
-Linux, Git
-
+Linux
 
 
 
