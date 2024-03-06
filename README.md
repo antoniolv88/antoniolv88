@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Antonio Lorenzo Vázquez</h1>
-<h3 align="center">Soy administrador de sistemas informáticos y me estoy especializando actualmente en programación Java</h3>
+<h3 align="center">Soy administrador de sistemas informáticos y me estoy formando en programación</h3>
 
 - 🌱 Estoy aprendiendo * *Master desarrollo de Videojuegos y diseño 3D**
 
