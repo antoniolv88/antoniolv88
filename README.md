@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Antonio Lorenzo Vázquez</h1>
 <h3 align="center">Soy administrador de sistemas informáticos y me estoy formando en programación</h3>
 
-- 🌱 Estoy aprendiendo **JS , React , Python y Django **
+- 🌱 Estoy aprendiendo **JS , React , Python y Django**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [www.antoniolv.dev](www.antoniolv.dev)
 
