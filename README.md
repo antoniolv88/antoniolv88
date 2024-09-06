@@ -1,13 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Antonio Lorenzo Vázquez</h1>
 <h3 align="center">Soy administrador de sistemas informáticos y me estoy formando en programación</h3>
 
-- 🌱 Estoy aprendiendo ** Fundamentos: Git, Algoritmos y Estructuras de Datos, Lógica de Programación.
-Front-end: HTML, CSS, JavaScript (React o Angular).
-Back-end: Python y Django,Node.js Bases de Datos (SQL/NoSQL), Autenticación.
-APIs: REST, GraphQL.
-Despliegue: DevOps (Docker, Cloud), CI/CD.
-Testing: Jest, Mocha, Cypress.
-Patrones y Buenas Prácticas: MVC, Microservicios, Arquitectura. **
+- 🌱 Estoy aprendiendo **JS , React , Python y Django **
 
 - 👨‍💻 Todos mis proyectos están disponibles en [www.antoniolv.dev](www.antoniolv.dev)
 
