@@ -7,7 +7,7 @@
 
 - 💬 Preguntame sobre **HTML, CSS, JS, Python, C#**
 
-- 📫 Para contactarme escríbeme al mail **antoniolorenzov88@gmail.com**
+- 📫 Para contactarme escríbeme al mail **info@antoniolv.dev**
 
 <h3 align="left">Conéctate conmigo :</h3>
 <p align="izquierda">
