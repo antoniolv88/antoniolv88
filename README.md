@@ -5,7 +5,7 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en [www.antoniolv.dev](www.antoniolv.dev)
 
-- 💬 Preguntame sobre **HTML, CSS, JS, Python, C#**
+- 💬 Preguntame sobre **HTML, CSS, JS, Python, C# y SQL**
 
 - 📫 Para contactarme escríbeme al mail **info@antoniolv.dev**
 
