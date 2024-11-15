@@ -30,7 +30,7 @@ HTML, CSS
 
 <h3 align="izquierda">Bases de datos</h3>
 
-MySql, SQLServer
+SQL
 
 
 <h3 align="izquierda">Motores de juego</h3>
