@@ -28,6 +28,7 @@
 <td width="100%">
 <h3 align="center">Generador Contraseñas Python</h3>
 <div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/NGBjPrxeBWE?si=SlMxxP58HBhfHtEd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <a href="https://youtu.be/NGBjPrxeBWE?si=dBlsmDfHP_5vMs8G" target="_blank"></a>
 
 <p>Aprende a crear un generador de contraseñas seguro</strong>
