@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, Me llamo Antonio Lorenzo Vázquez</h1>
 <h3 align="center">Soy administrador de sistemas informáticos y me estoy formando en programación</h3>
+<img src="https://www.canva.com/design/DAGX26-VASM/TwAcLIeGXwOQDT4DPdzbOg/view?utm_content=DAGX26-VASM&utm_campaign=designshare&utm_medium=link&utm_source=editor">
 
 - 🌱 Estoy formandome para Full Stack **JS , React , Python y Django**
 - 👨‍💻 Todos mis proyectos están disponibles en [www.antoniolv.dev](www.antoniolv.dev)
@@ -7,13 +8,9 @@
 
 <h3 align="left">Conéctate conmigo :</h3>
 <p align="izquierda">
-<a href="https://www.linkedin.com/in/antoniolv88" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="git" width="65" height="65"/>  </a>
+
 *[Linkedin](https://www.linkedin.com/in/antoniolv88)
 <h3 alinear="izquierda">Herramientas:</h3>
-
-<p align="left"> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="65" height="65"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="65" height="65"/> </a>
-</p>
-
 <h3 align="izquierda">Lenguajes de programación</h3>
 <img src="https://badges.aleen42.com/src/python.svg" alt="badge"/><img src="https://img.shields.io/badge/.-Unity-blue" alt="badge"/><img src="https://badges.aleen42.com/src/javascript.svg" alt="badge"/>
 <h3 align="izquierda">Desarrollo Front-End</h3>
