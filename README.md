@@ -7,7 +7,7 @@
 
 <h3 align="left">Conéctate conmigo :</h3>
 <p align="izquierda">
-  
+<a href="https://www.linkedin.com/in/antoniolv88" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="git" width="65" height="65"/>  </a>
 *[Linkedin](https://www.linkedin.com/in/antoniolv88)
 <h3 alinear="izquierda">Herramientas:</h3>
 
@@ -26,7 +26,7 @@
 <a href="https://jira.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="firebase" width="65" height="65"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/>  </a>
-<a href="https://linux.org/" target="_blank"> <img src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)" alt="git" width="65" height="65"/>  </a>
+<a href="https://linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="git" width="65" height="65"/>  </a>
 
 
 ## Proyectos 
