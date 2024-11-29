@@ -25,10 +25,12 @@ Python , C#
 
 
 <h3 align="izquierda">Desarrollo Front-End</h3>
+https://badges.aleen42.com/src/css3.svg
 
 HTML, CSS
 
 <h3 align="izquierda">Bases de datos</h3>
+
 
 SQL
 
