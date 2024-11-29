@@ -23,6 +23,7 @@
 <img src="https://badges.aleen42.com/src/linux.svg" alt="badge"/> <img src="https://badges.aleen42.com/src/git.svg" alt="badge"/><img src="https://badges.aleen42.com/src/jira.svg" alt="badge"/><img src="https://badges.aleen42.com/src/postman.svg" alt="badge"/>
 
 ## Proyectos *bombitas*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NGBjPrxeBWE?si=SlMxxP58HBhfHtEd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <table>
 <tr>
 <td width="100%">
