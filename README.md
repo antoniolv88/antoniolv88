@@ -1,6 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Antonio Lorenzo Vázquez</h1>
-<h3 align="center">Soy administrador de sistemas informáticos y me estoy formando en programación</h3>
-<img src="https://www.canva.com/design/DAGX26-VASM/TwAcLIeGXwOQDT4DPdzbOg/view?utm_content=DAGX26-VASM&utm_campaign=designshare&utm_medium=link&utm_source=editor">
+<h3 align="center">Soy administrador de sistemas informáticos y me estoy formando como Full Stack</h3>
 
 - 🌱 Estoy formandome para Full Stack **JS , React , Python y Django**
 - 👨‍💻 Todos mis proyectos están disponibles en [www.antoniolv.dev](www.antoniolv.dev)
