@@ -11,25 +11,26 @@
 *[Linkedin](https://www.linkedin.com/in/antoniolv88)
 <h3 alinear="izquierda">Herramientas:</h3>
 
+<p align="left"> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="65" height="65"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="65" height="65"/> </a>
+</p>
+
 <h3 align="izquierda">Lenguajes de programación</h3>
-<img src="https://badges.aleen42.com/src/python.svg" alt="badge"/><img src="https://badges.aleen42.com/src/sharp.svg" alt="badge"/><img src="https://badges.aleen42.com/src/javascript.svg" alt="badge"/>
+<img src="https://badges.aleen42.com/src/python.svg" alt="badge"/><img src="https://img.shields.io/badge/.-Unity-blue" alt="badge"/><img src="https://badges.aleen42.com/src/javascript.svg" alt="badge"/>
 <h3 align="izquierda">Desarrollo Front-End</h3>
 <img src="https://badges.aleen42.com/src/html5.svg" alt="badge"/><img src="https://badges.aleen42.com/src/css3.svg" alt="badge"/>
 <h3 align="izquierda">Bases de datos</h3>
-<img src="https://badges.aleen42.com/src/sqlite.svg" alt="badge"/>
+<img src="https://img.shields.io/badge/.-SQL-blue" alt="badge"/>
 <h3 align="izquierda">Motores de juego</h3>
-<img src="https://badges.aleen42.com/src/unity.svg" alt="badge"/>
+<img src="https://img.shields.io/badge/.-SQL-blue" alt="badge"/>
 <h3 align="izquierda">Otros</h3>
-<img src="https://badges.aleen42.com/src/linux.svg" alt="badge"/> <img src="https://badges.aleen42.com/src/git.svg" alt="badge"/><img src="https://badges.aleen42.com/src/jira.svg" alt="badge"/><img src="https://badges.aleen42.com/src/postman.svg" alt="badge"/>
+<img src="https://img.shields.io/badge/.-Linux-blue" alt="badge"/> <img src="https://img.shields.io/badge/.-Git-blue" alt="badge"/><img src="https://img.shields.io/badge/.-Jira-blue" alt="badge"/><img src="https://img.shields.io/badge/.-Postman-blue" alt="badge"/>
 
-## Proyectos *bombitas*
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NGBjPrxeBWE?si=SlMxxP58HBhfHtEd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Proyectos 
 <table>
 <tr>
 <td width="100%">
 <h3 align="center">Generador Contraseñas Python</h3>
 <div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/NGBjPrxeBWE?si=SlMxxP58HBhfHtEd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <a href="https://youtu.be/NGBjPrxeBWE?si=dBlsmDfHP_5vMs8G" target="_blank"></a>
 
 <p>Aprende a crear un generador de contraseñas seguro</strong>
