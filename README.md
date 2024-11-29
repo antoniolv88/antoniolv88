@@ -23,7 +23,11 @@
 <h3 align="izquierda">Motores de juego</h3>
 <img src="https://img.shields.io/badge/.-SQL-blue" alt="badge"/>
 <h3 align="izquierda">Otros</h3>
-<img src="https://img.shields.io/badge/.-Linux-blue" alt="badge"/> <img src="https://img.shields.io/badge/.-Git-blue" alt="badge"/><img src="https://img.shields.io/badge/.-Jira-blue" alt="badge"/><img src="https://img.shields.io/badge/.-Postman-blue" alt="badge"/>
+<a href="https://jira.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="firebase" width="65" height="65"/> </a>
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/>  </a>
+<a href="https://linux.org/" target="_blank"> <img src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)" alt="git" width="65" height="65"/>  </a>
+
 
 ## Proyectos 
 <table>
