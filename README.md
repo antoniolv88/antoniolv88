@@ -28,7 +28,7 @@
 <td width="100%">
 <h3 align="center">Generador Contraseñas Python</h3>
 <div align="center">
-<a href="https://youtu.be/NGBjPrxeBWE?si=jPOHqE9Yczma6fKk" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Generador contraseñas Python"></a>
+<a href="https://youtu.be/NGBjPrxeBWE?si=dBlsmDfHP_5vMs8G" target="_blank"></a>
 
 <p>Aprende a crear un generador de contraseñas seguro</strong>
 </div>                                                                 
@@ -38,8 +38,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/antoniolv88">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=antoniolv88&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antoniolv88&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
