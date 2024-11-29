@@ -7,17 +7,17 @@
 
 <h3 align="left">Conéctate conmigo :</h3>
 <p align="izquierda">
+<a href="https://www.linkedin.com/in/antoniolv88" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="firebase" width="65" height="65"/> </a>
 
-*[Linkedin](https://www.linkedin.com/in/antoniolv88)
 <h3 alinear="izquierda">Herramientas:</h3>
 <h3 align="izquierda">Lenguajes de programación</h3>
-<img src="https://badges.aleen42.com/src/python.svg" alt="badge"/><img src="https://img.shields.io/badge/.-Unity-blue" alt="badge"/><img src="https://badges.aleen42.com/src/javascript.svg" alt="badge"/>
+<img src="https://badges.aleen42.com/src/python.svg" alt="badge"><img src="https://img.shields.io/badge/.-CShar-blue" alt="badge"><img src="https://badges.aleen42.com/src/javascript.svg" alt="badge"/>
 <h3 align="izquierda">Desarrollo Front-End</h3>
 <img src="https://badges.aleen42.com/src/html5.svg" alt="badge"/><img src="https://badges.aleen42.com/src/css3.svg" alt="badge"/>
 <h3 align="izquierda">Bases de datos</h3>
-<img src="https://img.shields.io/badge/.-SQL-blue" alt="badge"/>
+<a href="https://sql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="firebase" width="65" height="65"/> </a>
 <h3 align="izquierda">Motores de juego</h3>
-<img src="https://img.shields.io/badge/.-SQL-blue" alt="badge"/>
+<a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="firebase" width="65" height="65"/> </a>
 <h3 align="izquierda">Otros</h3>
 <a href="https://jira.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="firebase" width="65" height="65"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/> </a>
