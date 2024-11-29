@@ -25,7 +25,9 @@ Python , C#
 
 
 <h3 align="izquierda">Desarrollo Front-End</h3>
-https://badges.aleen42.com/src/css3.svg
+<img src="https://badges.aleen42.com/src/html5.svg" alt="badge"/>
+<img src="https://badges.aleen42.com/src/css3.svg" alt="badge"/>
+
 
 HTML, CSS
 
