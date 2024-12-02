@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, Me llamo Antonio Lorenzo Vázquez</h1>
 <h3 align="center">Soy administrador de sistemas informáticos y me estoy formando como Full Stack</h3>
 
+![https://github.com/antoniolv88](./antoniolv_banner.png)
+
 - 🌱 Estoy formandome para Full Stack **JS , React , Python y Django**
 - 👨‍💻 Todos mis proyectos están disponibles en [www.antoniolv.dev](www.antoniolv.dev)
 - 📫 Para contactarme escríbeme al mail **info@antoniolv.dev**
