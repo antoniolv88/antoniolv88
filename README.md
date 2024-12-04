@@ -33,7 +33,8 @@
 <td width="100%">
 <h3 align="center">Generador Contraseñas Python</h3>
 <div align="center">
-<a href="https://youtu.be/NGBjPrxeBWE?si=dBlsmDfHP_5vMs8G" target="_blank"></a>
+<a href="https://youtu.be/NGBjPrxeBWE?si=dBlsmDfHP_5vMs8G" target="_blank"><img src="https://github.com/antoniolv88/antoniolv88/blob/main/GestionContra%C3%B1as.png" width="400" alt="Generador Contraseñas"></a>
+
 
 <p>Aprende a crear un generador de contraseñas seguro</strong>
 </div>                                                                 
